@@ -85,7 +85,7 @@ I'm a Computer Science & Engineering student at **International Islamic Universi
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| **🤖 AI Image Generator** | Responsive web app for AI image generation with clean UI/UX and Hugging Face API integration | React, Hugging Face API, JavaScript, CSS | [GitHub](https://github.com/aritradev/Ai-Image-Generator) · [Live](#) |
+| **🤖 AI Image Generator** | Responsive web app for AI image generation with clean UI/UX and Hugging Face API integration | React, Hugging Face API, JavaScript, CSS | [GitHub](https://github.com/aritradev/Ai-Image-Generator) · [Live](https://aiimagegenerator-beryl.vercel.app/) |
 
 > 🚧 More projects on the way as I keep building!
 
@@ -127,7 +127,7 @@ I'm a Computer Science & Engineering student at **International Islamic Universi
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aritra-dev">
+<a href="https://www.linkedin.com/in/aritradev">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
