@@ -43,7 +43,6 @@ I'm a Computer Science & Engineering student at **International Islamic Universi
 | **LeetCode** | [aritra_dev](https://leetcode.com/u/aritra_dev/) | 1601 — Top 23.18% | Among 840,000+ users |
 
 </div>
-# 🏆 Competitive Programming
 
 ### LeetCode Stats
 
@@ -136,10 +135,10 @@ I'm a Computer Science & Engineering student at **International Islamic Universi
 
 </div>
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/aritradev/aritradev/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 
