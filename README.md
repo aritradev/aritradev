@@ -43,6 +43,20 @@ I'm a Computer Science & Engineering student at **International Islamic Universi
 | **LeetCode** | [aritra_dev](https://leetcode.com/u/aritra_dev/) | 1601 — Top 23.18% | Among 840,000+ users |
 
 </div>
+# 🏆 Competitive Programming
+
+### LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/aritra_dev?theme=dark&font=Nunito&ext=heatmap"/>
+</p>
+
+
+# 🏆 Codeforces Stats
+
+<p align="center">
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Ari.&theme=dark"/>
+</p>
 
 ---
 
@@ -121,6 +135,13 @@ I'm a Computer Science & Engineering student at **International Islamic Universi
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aritradev&theme=tokyo-night&hide_border=true&radius=8&area=true" width="100%"/>
 
 </div>
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 
 ---
 
